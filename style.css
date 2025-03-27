@@ -1,9 +1,24 @@
-html {
-  height: 100%;
-  width: 100%;
+.phandau {
+  background-color:#E8E8E8;
+  text-align: center;
+  padding: 30px; 
+  font-size: 50px;
+  }
+a{
+background-color: ;
+color:black;
+text-decoration: none;
+ }
+
+.box:hover {
+  background-color: #E8E8E8;;
+  font-size: 20px;
 }
-h1
-{
-  color: DodgerBlue;
-  font-family: "arial";
+.noidung{}
+.gioithieu{
+  background-color: #800080;
+}
+.box{
+  margin:10px;
+  padding: 20px;
 }
